@@ -1,2 +1,2 @@
 
-web: gunicorn --Bake_Cake_bot.wsgi
+web: gunicorn Bake_Cake_bot.wsgi --log-file 
